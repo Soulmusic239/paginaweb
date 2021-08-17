@@ -1,0 +1,424 @@
+{
+    "guitarras":[
+        {
+            "title":"Taylor-T5z Classic",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":9603000,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Taylor-T5z-Classic.PNG"
+        },
+        {
+            "title":"Gibson-SJ-200 Studio Rosewood",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":16920000,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Gibson-SJ-200-Studio-Rosewood-Rosewood-Burst.PNG"
+        },
+        {
+            "title":"Martin-SC-13E, Natural",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":8230500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Martin-SC-13E-Natural.PNG"
+        },
+        {
+            "title":"Tanglewood-TWBB SFCE Blackbird Electro Acoustic",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":1048500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Tanglewood-TWBB-SFCE-Blackbird-Electro-Acoustic-Smokestack-Black.PNG"
+        },
+        {
+            "title":"Faith-Venus Blood Moon Cutaway",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":4756500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Faith-Venus-Blood-Moon-Cutaway-Blood-Moon-Burst.PNG"
+        },
+        {
+            "title":"Tanglewood-OE TWCR Crossroads",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":787500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Tanglewood-OE-TWCR-Crossroads-Whiskey-Burst.PNG"
+        },
+        {
+            "title":"Yamaha-FS830 Guitarra Acústica",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":1732500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Yamaha-FS830-Guitarra-Acústica-Natural.PNG"
+        },
+        {
+            "title":"Fender-PM-2 Parlor Mahogany",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":2376000,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Yamaha-FS830-Guitarra-Acústica-Natural.PNGpublic/img/img_instrumentos/GUITARRAS/ACUSTICAS/Fender-PM-2-Parlor-Mahogany-Natural.PNG"
+        },
+        {
+            "title":"Yamaha-F310",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":679500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Yamaha-F310-Natural.PNG"
+        },
+        {
+            "title":"Luna-Safari",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":738000,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Luna-Safari-Guitarra-de-Viaje-Noche-Estrellada.PNG"
+        },
+        {
+            "title":"Taylor-T5z Classic",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":9603000,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Taylor-T5z-Classic.PNG"
+        },
+        {
+            "title":"Tanglewood-TWBB SFCE Blackbird Electro Acoustic",
+            "desciption":"Lorem ipsum",
+            "marca":"acustica",
+            "price":1048500,
+            "img":"public/img/img_instrumentos/GUITARRAS/ACUSTICAS/Tanglewood-TWBB-SFCE-Blackbird-Electro-Acoustic-Smokestack-Black.PNG"
+        },
+        {
+            "title":"Gibson-Les Paul Special Tribute Humbucker",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":4428000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-Gibson-Les-Paul-Special-Tribute-Humbucker-Vintage-Cherry-Satin.PNG"
+        },
+        {
+            "title":"Gibson-Les Paul Junior",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":6399000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-Les-Paul-Junior-Ebony.PNG"
+        },
+        {
+            "title":"Gibson-SG Modern",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":8374500,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-SG-Modern-Blueberry-Fade.PNG"
+        },
+        {
+            "title":"Gibson-Les Paul Studio Left Handed",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":6871000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-Les-Paul-Studio-Left-Handed-Ebony.PNG"
+        },
+        {
+            "title":"Gibson-ES-335 Figured",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":16920000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-ES-335-Figured-Iced-Tea.PNG"
+        },
+        {
+            "title":"Gibson-ES-339, Cherry",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":10570500,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-ES-339-Cherry.PNG"
+        },
+        {
+            "title":"Gibson-ES-335 Satin",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":11101500,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-ES-335-Satin-Satin-Vintage-Natural.PNG"
+        },
+        {
+            "title":"Gibson-Explorer 70s",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":8914500,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-Explorer-70s-Classic-White.PNG"
+        },
+        {
+            "title":"Gibson-Flying V 70s",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":8685000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-Flying-V-70s-Classic-White.PNG"
+        },
+        {
+            "title":"Gibson-ES-339 Figured",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":13743000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-ES-339-Figured-Sixties-Cherry.PNG"
+        },
+        {
+            "title":"Gibson-Les Paul Special Tribute Humbucker",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":4428000,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-Gibson-Les-Paul-Special-Tribute-Humbucker-Vintage-Cherry-Satin.PNG"
+        },
+        {
+            "title":"Gibson-ES-339, Cherry",
+            "desciption":"Lorem ipsum",
+            "marca":"gibson",
+            "price":10570500,
+            "img":"public/img/img_instrumentos/GUITARRAS/GIBSON/Gibson-ES-339-Cherry.PNG"
+        },
+        {
+            "title":"Ibanez-GRX40 GIO",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":753900,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-GRX40-GIO-Black-Night.PNG"
+        },
+        {
+            "title":"Ibanez-GRX70QA GIO",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":841500,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-GRX70QA-GIO-Transparent-Red-Burst.PNG"
+        },
+        {
+            "title":"Ibanez-PGMM31 Paul Gilbert miKro",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":886500,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-PGMM31-Paul-Gilbert-miKro-White.PNG"
+        },
+        {
+            "title":"Ibanez-GRG170DXL GIO Left Handed",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":1156000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-GRG170DXL-GIO-Left-Handed-Black-Night.PNG"
+        },
+        {
+            "title":"Ibanez-RGA42FM",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":1820200,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-RGA42FM-Transparent-Grey-Flat.PNG"
+        },
+        {
+            "title":"Ibanez-AGS73FM Artcore Expressionist",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":2343000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-AGS73FM-Artcore-Expressionist-Violin-Sunburst.PNG"
+        },
+        {
+            "title":"Ibanez-JIVA10 Nita Strauss",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":6174000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-JIVA10-Nita-Strauss-Deep-Space-Blonde.PNG"
+        },
+        {
+            "title":"Ibanez JEM77P Steve Vai Premium",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":6849000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-JEM77P-Steve-Vai-Premium-Blue-Floral.PNG"
+        },
+        {
+            "title":"Ibanez-RG5170B Prestige",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":9603000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-RG5170B-Prestige-Black.PNG"
+        },
+        {
+            "title":"Ibanez-JS1CR Joe Satriani",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":26437500,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-JS1CR-Joe-Satriani-Chrome-Boy.PNG"
+        },
+        {
+            "title":"Ibanez-RG5170B Prestige",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":9603000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-RG5170B-Prestige-Black.PNG"
+        },
+        {
+            "title":"Ibanez-JIVA10 Nita Strauss",
+            "desciption":"Lorem ipsum",
+            "marca":"ibanez",
+            "price":6174000,
+            "img":"public/img/img_instrumentos/GUITARRAS/IBANEZ/Ibanez-JIVA10-Nita-Strauss-Deep-Space-Blonde.PNG"
+        },
+        {
+            "title":"Jackson-MJ SRS Misha Mansoor So Cal 1 2PT",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":13108500,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-MJ-SRS-Misha-Mansoor-So-Cal-1-2PT-Daphne-Blue.PNG"
+        },
+        {
+            "title":"Jackson-MJ RRT5 Rhoads",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":13108500,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-MJ-RRT5-Rhoads-Black.PNG"
+        },
+        {
+            "title":"Jackson-MJ SL2 Soloist",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":12051000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-MJ-SL2-Soloist-Black.PNG"
+        },
+        {
+            "title":"Jackson-MJ DKRA Dinky MAH",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":10678000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-MJ-DKRA-Dinky-MAH-Black-Ash.PNG"
+        },
+        {
+            "title":"Jackson-MJ DKR Dinky",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":9508500,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-MJ-DKR-Dinky-Black.PNG"
+        },
+        {
+            "title":"Jackson-Pro MDK6 ET6",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":8878000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-Pro-MDK6-ET6-Satin-Graphite.PNG"
+        },
+        {
+            "title":"Jackson-Pro Misha Mansoor Juggernaut ET7",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":7767000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-Pro-Misha-Mansoor-Juggernaut-ET7-Gulf-Blue.PNG"
+        },
+        {
+            "title":"Jackson-Pro Corey Beaulieu King V 7-String",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":5643000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-Pro-Corey-Beaulieu-King-V-7-String-Winterstorm.PNG"
+        },
+        {
+            "title":"Jackson-Pro RR24Q Randy Rhoads",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":4860000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-Pro-RR24Q-Randy-Rhoads-Trans-Purple.PNG"
+        },
+        {
+            "title":"Jackson-USA Gus G Star Signature",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":28021500,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-USA-Gus-G-Star-Signature-Ivory.PNG"
+        },
+        {
+            "title":"Jackson-MJ SL2 Soloist",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":12051000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-MJ-SL2-Soloist-Black.PNG"
+        },
+        {
+            "title":"Jackson-Pro Corey Beaulieu King V 7-String",
+            "desciption":"Lorem ipsum",
+            "marca":"jackson",
+            "price":5643000,
+            "img":"public/img/img_instrumentos/GUITARRAS/JACKSON/Jackson-Pro-Corey-Beaulieu-King-V-7-String-Winterstorm.PNG"
+        },
+        {
+            "title":"Schecter-Banshee Mach-7 Evertune",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":9778000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Banshee-Mach-7-Evertune-Fallout-Burst.PNG"
+        },
+        {
+            "title":"Schecter-Banshee Mach-6 Evertune",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":9409000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Banshee-Mach-6-Evertune-Fallout-Burst.PNG"
+        },
+        {
+            "title":"Schecter-Banshee Mach-7 FR-S",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":8775000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Banshee-Mach-7-FR-S-Ember-Burst.PNG"
+        },
+        {
+            "title":"Schecter-Solo-II FR Apocalypse Left Handed",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":8086000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Solo-II-FR-Apocalypse-Left-Handed-Red-Reign.PNG"
+        },
+        {
+            "title":"Schecter-Nikki Stringfield A-6 FR S",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7929000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Nikki-Stringfield-A-6-FR-S-MM.PNG"
+        },
+        {
+            "title":"Schecter-C-7 FR SLS Elite Left Handed",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7659000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-C-7-FR-SLS-Elite-Left-Handed-Black-Fade-Burst.PNG"
+        },
+        {
+            "title":"Schecter-Synester Gates Custom S Left Handed",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7555500,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Synester-Gates-Custom-S-Left-Handed-Black-Gold.PNG"
+        },
+        {
+            "title":"Schecter-Balsac E-1 FR",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7344000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Balsac-E-1-FR-BORC.PNG"
+        },
+        {
+            "title":"Schecter-C-1 FR-S Apocalypse",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7240000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-C-1-FR-S-Apocalypse-Purple-Reign.PNG"
+        },
+        {
+            "title":"Schecter-C-1 FR-S Silver Mountain",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7132000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-C-1-FR-S-Silver-Mountain-Toxic-Venom.PNG"
+        },
+        {
+            "title":"Schecter-Banshee Mach-6 Evertune",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":9409000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-Banshee-Mach-6-Evertune-Fallout-Burst.PNG"
+        },
+        {
+            "title":"Schecter-C-7 FR SLS Elite Left Handed",
+            "desciption":"Lorem ipsum",
+            "marca":"schecter",
+            "price":7659000,
+            "img":"public/img/img_instrumentos/GUITARRAS/SCHECTER/Schecter-C-7-FR-SLS-Elite-Left-Handed-Black-Fade-Burst.PNG"
+        }
+    ]
+}

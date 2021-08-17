@@ -1,0 +1,172 @@
+{
+    "teclados":[
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-CTK-2500.PNG",
+            "title":"Casio-CTK-2500",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":499000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-CTS-100.PNG",
+            "title":"Casio-CTS-100",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":519000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-CT-S300.PNG",
+            "title":"Casio-CT-S300",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":519000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-AP-470BK.PNG",
+            "title":"Casio-AP-470B",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":4477000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-AP-270BK.PNG",
+            "title":"Casio-AP-270BK",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":3550000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-PX-S1000WE.PNG",
+            "title":"Casio-PX-S1000WE",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":2472000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-AP-710BK.PNG",
+            "title":"Casio-AP-710BK",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":5529000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-PX-S3000.PNG",
+            "title":"Casio-PX-S3000",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":3270000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-AP-650.PNG",
+            "title":"Casio AP-650",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":5200000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-GP-500.PNG",
+            "title":"Casio-GP-500",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":13500000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-AP-710BK.PNG",
+            "title":"Casio-AP-710BK",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":5529000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/CASIO/Casio-AP-470BK.PNG",
+            "title":"Casio-AP-470BK",
+            "desciption":"lorem impsu",
+            "marca":"casio",
+            "price":4477000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-ES100.PNG",
+            "title":"Kawai-ES100",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":3350000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-CN39.PNG",
+            "title":"Kawai-CN39",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":9800000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-KDP110.PNG",
+            "title":"Kawai-KDP110",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":5900000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-ND-21.PN",
+            "title":"Kawai-ND-21",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":20700000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-K300.PNG",
+            "title":"Kawai-K300",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":27000000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-GM-12.PNG",
+            "title":"Kawai-GM-12",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":38000000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-GL10.PNG",
+            "title":"Kawai-GL10",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":51000000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-GX-2.PNG",
+            "title":"Kawai-GX-2",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":84500000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-GX-3.PNG",
+            "title":"Kawai-GX-3",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":110000000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-GX-6.PNG",
+            "title":"Kawai-GX-6",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":140000000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-ND-21.PNG",
+            "title":"Kawai-ND-21",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":20700000
+        },
+        {
+            "img":"public/img/img_instrumentos/Pianos/KAWAI/Kawai-KDP110.PNG",
+            "title":"Kawai-KDP110",
+            "desciption":"lorem impsu",
+            "marca":"kawai",
+            "price":5900000
+        }
+    ]
+}

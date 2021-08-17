@@ -1,0 +1,426 @@
+{
+    
+            "baterias":[
+                {
+                    "title":"Gretsch-Energy Rock Black",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":2600000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Energy-Rock-Black.PNG"
+                },
+                {
+                    "title":"Gretsch-Energy Studio Black",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":2950000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/GRETSCH-Energy-Studio-Black.PNG"
+                },
+                {
+                    "title":"Gretsch-Brooklyn Standard Satin Black",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":12150000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Brooklyn-Standard-Satin-Black.PNG"
+                },
+                {
+                    "title":"Gretsch-Renown Maple Studio Silver Oyster Pearl",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":6300000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Renown-Maple-Studio-Silver-Oyster-Pearl.PNG"
+                },
+                {
+                    "title":"Gretsch-Catalina Club Jazz Walnut",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":2875000,
+                    "img": "public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Catalina-Club-Jazz-Walnut.PNG"
+                },
+                {
+                    "title":"Gretsch-Catalina Club Studio Walnut",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":6100000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Catalina-Club-Studio-Walnut.PNG"
+                },
+                {
+                    "title":"Gretsch-Renown Maple Studio Piano Black",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":6300000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Renown-Maple-Studio-Piano-Black.PNG"
+                },
+                {
+                    "title":"Gretsch-Renown Maple Standard Piano Black",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":6870000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Renown-Maple-Standard-Piano-Black.PNG"
+                },
+                {
+                    "title":"Gretsch-Renown Maple Rock Silver Oyster Pearl",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":6516000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Renown-Maple-Rock-Silver-Oyster-Pearl.PNG"
+                },
+                {
+                    "title":"Gretsch-Renown Maple Jazz Vintage Pearl",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":4806000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Renown-Maple-Jazz-Vintage-Pearl.PNG"
+                },
+                {
+                    "title":"Gretsch-Renown Maple Rock Silver Oyster Pearl",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":6516000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Renown-Maple-Rock-Silver-Oyster-Pearl.PNG"
+                },
+                {
+                    "title":"Gretsch-Energy Rock Black",
+                    "desciption":"lorem impsu",
+                    "marca":"grestch",
+                    "price":2600000,
+                    "img":"public/img/img_instrumentos/Drumms/GRETSCH/Gretsch-Energy-Rock-Black.PNG"
+                },
+                {
+                    "title":"Mapex-PDG5294FTCYB",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":1890000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-PDG5294FTCYB.PNG"
+                },
+                {
+                    "title":"Mapex-PDG5254TCDK",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":1900000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-PDG5254TCDK.PNG"
+                },
+                {
+                    "title":"Mapex-PDG5254TCFI",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":1950000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-PDG5254TCFI.PNG"
+                },
+                {
+                    "title":"Mapex-ST5295FIC",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":2790000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-ST5295FIC.PNG"
+                },
+                {
+                    "title":"Mapex-MA446SBAW",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":3690000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-MA446SBAW.PNG"
+                },
+                {
+                    "title":"Mapex-MA528SFRW",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":3900000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-MA528SFRW.PNG"
+                },
+                {
+                    "title":"Mapex-AR529SFG",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":5420000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-AR529SFG.PNG"
+                },
+                {
+                    "title":"Mapex-SVTE401XVS",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":7720000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-SVTE401XVS.PNG"
+                },
+                {
+                    "title":"Mapex-SV529XBMSL",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":10900000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-SV529XBMSL.PNG"
+                },
+                {
+                    "title":"Mapex-SV628XEBKLE",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":13220000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-SV628XEBKLE.PNG"
+                },
+                {
+                    "title":"Mapex-ST5295FIC",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":2790000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-ST5295FIC.PNG"
+                },
+                {
+                    "title":"Mapex-PDG5254TCFI",
+                    "desciption":"lorem impsu",
+                    "marca":"mapex",
+                    "price":1950000,
+                    "img":"public/img/img_instrumentos/Drumms/MAPEX/Mapex-PDG5254TCFI.PNG"
+                },
+                {
+                    "title":"Pearl-DMP925S-C228",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":5150000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/DMP925S-C228.PNG"
+                },
+                {
+                    "title":"Pearl-EXX705NBR-C21",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":3550000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/EXX705NBR-C21.PNG"
+                },
+                {
+                    "title":"Peal-CRB524FP-C731",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":5560000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/CRB524FP-C731.PNG"
+                },
+                {
+                    "title":"Pearl-EXX725SBR-C700",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":3450000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/EXX725SBR-C700.PNG"
+                },
+                {
+                    "title":"Pearl-EXX725FBR-C91",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":3600000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/EXX725FBR-C91.PNG"
+                },
+                {
+                    "title":"Pearl-RS525SC-C31",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":2535000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/RS525SC-C31.PNG"
+                },
+                {
+                    "title":"Pearl-MCT924XEFP-C329",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":7700000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/MCT924XEFP-C329.PNG"
+                },
+                {
+                    "title":"Pearl-PSD903XP-C767",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":7890000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/PSD903XP-C767.PNG,"
+                },
+                {
+                    "title":"Pearl-CRB524FP-C742",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":5790000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/CRB524FP-C742.PNG"
+                },
+                {
+                    "title":"Pearl-MRV924XEP-C347",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":12000000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/MRV924XEP-C347.PNG"
+                },
+                {
+                    "title":"Pearl-DMP925S-C228",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":5150000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/DMP925S-C228.PNG"
+                },
+                {
+                    "title":"Pearl-MCT924XEFP-C329",
+                    "desciption":"lorem impsu",
+                    "marca":"pearl",
+                    "price":7700000,
+                    "img":"public/img/img_instrumentos/Drumms/PEARL/MCT924XEFP-C329.PNG"
+                },
+                {
+                    "title":"Sonor-AQ1 Stage PW",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":4910000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ1-Stage-PW.PNG"
+                },
+                {
+                    "title":"Sonor-AQX Studio RMS",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":3650000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQX-Studio-RMS.PNG"
+                },
+                {
+                    "title":"Sonor-AQ2 Bop Set TSB",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":4650000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ2-Bop-Set-TSB.PNG"
+                },
+                {
+                    "title":"Sonor-AQ2 Safari Set BRF",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":3870000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ2-Safari-Set-BRF.PNG"
+                },
+                {
+                    "title":"Sonor-VT Three22 Shells WM",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":11650000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-VT-Three22-Shells-WM.PNG"
+                },
+                {
+                    "title":"Sonor-SQ1 Standard GTB",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":11240000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-SQ1-Standard-GTB.PNG"
+                },
+                {
+                    "title":"Sonor-AQ2 Studio Set",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":6540000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ2-Studio-Set.PNG"
+                },
+                {
+                    "title":"Sonor-SQ1 320 Set NM RGR Roadster",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":9780000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-SQ1-320-Set-NM-RGR-Roadster.PNG"
+                },
+                {
+                    "title":"Sonor-AQ2 Studio Set ASB",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":5050000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ2-Studio-Set-ASB.PNG"
+                },
+                {
+                    "title":"Sonor-AQ2 Bop Set TSB",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":4650000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ2-Bop-Set-TSB.PNG"
+                },
+                {
+                    "title":"Sonor-AQX Studio RMS",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":3650000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQX-Studio-RMS.PNG"
+                },
+                {
+                    "title":"Sonor-AQ2 Studio Set ASB",
+                    "desciption":"lorem impsu",
+                    "marca":"sonor",
+                    "price":5050000,
+                    "img":"public/img/img_instrumentos/Drumms/SONOR/Sonor-AQ2-Studio-Set-ASB.PNG"
+                },
+                {
+                    "title":"Tama-SG52KH4C-DB",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":1900000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-SG52KH4C-DB.PNG"
+                },
+                {
+                    "title":"Tama-SG52KH4C-BK",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":1950000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-SG52KH4C-BK.PNG"
+                },
+                {
+                    "title":"Tama-IE52KH6W-BWW",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":4650000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-IE52KH6W-BWW.PNG"
+                },
+                {
+                    "title":"Tama-IE50H6W-BOW",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2650000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-IE50H6W-BOW.PNG"
+                },
+                {
+                    "title":"Tama-LJL48H4-SBO",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2500000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-LJL48H4-SBO.PNG"
+                },
+                {
+                    "title":"Tama-LJK44H4-CPM",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2000000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-LJK44H4-CPM.PNG"
+                },
+                {
+                    "title":"Tama-SG52KH4-SCP",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":1700000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-SG52KH4-SCP.PNG"
+                },
+                {
+                    "title":"Tama-CK52KS-VWS 5PC",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2800000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-CK52KS-VWS-5PC.PNG"
+                },
+                {
+                    "title":"Tama-IE50H6W-BOW",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2905000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-IE50H6W-BOW.PNG"
+                },
+                {
+                    "title":"Tama-IE52KH6W-VWS",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2650000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-IE52KH6W-VWS.PNG"
+                },
+                {
+                    "title":"Tama-LJL48H4-SBO",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2500000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-LJL48H4-SBO.PNG"
+                },
+                {
+                    "title":"Tama-CK52KS-VWS 5PC",
+                    "desciption":"lorem impsu",
+                    "marca":"tama",
+                    "price":2800000,
+                    "img":"public/img/img_instrumentos/Drumms/TAMA/TAMA-CK52KS-VWS-5PC.PNG"
+                }
+ ]
+       
+}

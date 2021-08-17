@@ -17,7 +17,7 @@ img{
     font-size: 100px;
     margin: 10px 0;
     color: black;
-    text-shadow: -1px 2px 2px aqua;
+    text-shadow: -1px 2px 8px #F79F1F;
     font-family: hervetical;
 }
 .main-header__container{
@@ -59,8 +59,6 @@ Estilos del Menu
 .menu__item{
     text-align: center;
     margin: auto;
-    font-size: 20px;
-    font-weight: bold;
 }
 
 .menu__link{
@@ -73,7 +71,7 @@ Estilos del Menu
 .menu__link:hover{
     background:#F79F1F ;
     color: black;
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,1);;
+    transition: all 0.5s;
 }
 
 .mostrar{
@@ -91,15 +89,17 @@ Estilos del Menu
     margin-left: auto;
 }
 
-
+.main-header__btn{
+    padding: 10px 30px;
+    display: block;
+    color:black;
+    border:1px solid gray;
+    text-decoration: none;
+}
 .main-header__input{
     display: block;
     padding: 10px;
     width: 50%;
-}
-
-.fas:hover{
-    color:#F79F1F;
 }
 
 .main {
@@ -211,9 +211,9 @@ Slider
 
 .btn-shop:hover{
     background: hsl(36, 93%, 55%);
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,1);;
+    transition: all 0.5s;
     border: 2px solid black;
-    color: black;
+    
 }
 
 /*****
@@ -221,13 +221,13 @@ Lista instrumentos
 ****/
 .main-title{
     text-align: center;
-    text-shadow: -2px 1px 2px aqua;
+    text-shadow: -1px 2px 8px #F79F1F;
     font-size: 3em;
     font-family: hervetical;
 }
 .container-products{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
 }
 
@@ -236,10 +236,6 @@ Lista instrumentos
     padding: 20px;
     text-align: center;
     position: relative;
-}
-
-.product:hover{
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,1);
 }
 
 .product:before{
@@ -269,22 +265,29 @@ Lista instrumentos
     font-weight: bold;
 }
 .product__icon{
+    display: block;
     margin-top:10px;
-    text-align: center;
-    font-family: hervetical;
 }
 .product:hover .product__icon{
-    color:black;
-    font-weight: bold;
-   box-shadow:0 6px 10px 0 rgba(0,0,0,1);
-    background: #F79F1F ;
+    color:#F79F1F;
+    transition: all 0.3s;
 }
 
 /**********
 TESTIMONIOS___
 ************/
 
+.container__testimonials{
+    text-align: center;
+    background:gray ;
+    padding: 20px ;
+    margin: 20px 0;
+    
+}
 
+.testimonials__txt{
+    color: white;
+}
 
 /**********
 EDITOR_
@@ -324,17 +327,14 @@ EDITOR_
     text-align: center;
     font-weight: bold;
     transition: all 0.6s;
-    background: hsl(36, 93%, 55% , 0.9);
+    background: hsl(36, 93%, 55% , 0.7);
 }
 
 .editor__item:hover .editor__circle{
     transform: scale(1.2);
     bottom: -90px;
-    right: -40px;
+    right: -50px;
     color: black;
-    box-shadow:0 6px 10px 0 rgba(0,0,0,1);
-    text-shadow:-1px 0 1px aqua ;
-    font-family: hervetical;
 }
 
 .editor__item::before{
@@ -344,9 +344,9 @@ EDITOR_
     left: 0;
     width: 100%;
     height: 100%;
+    background: rgb(3, 245, 245 , 0.2);
     opacity: 0;
     transition: all 0.6s;
-    
 }
 
 .editor__item:hover:before{
@@ -393,29 +393,10 @@ FOoter
     border-bottom: 2px solid #555;
     padding-bottom: 20px;
     color: white;
-    font-size: 30px;
-    text-align: center;
 }
 
 .footer__txt{
-    color: rgb(168, 164, 164);
-    font-size: 18px;
-    text-decoration: none;
-}
-.footer__txt h3{
-    font-size: larger;
-    color: white;
-    font-weight: bold;
-    
-}
-.fa-whatsapp:hover{
-    color:#F79F1F;
-}
-.fa-facebook:hover{
-    color:#F79F1F ;
-}
-.fa-instagram:hover{
-    color:#F79F1F ;
+    color: #555;
 }
 
 .footer__link{
@@ -429,19 +410,12 @@ FOoter
 }
 
 .footer__input{
-    background:white ;
+    background:gray ;
     width: 100%;
     display: block;
-    padding:15px ;
+    padding:20px ;
     border: 1px solid #555;
-    text-align: center;
-}
-.boton_footer{
-    width: 100%;
-    padding:3px 20px ;
-    margin-top: 5px;
-    font-weight: bold;
-    font-family: hervetical;
+    color: white;
 }
 .copy{
     color: #555;

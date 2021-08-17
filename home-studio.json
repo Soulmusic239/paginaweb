@@ -1,0 +1,356 @@
+{
+    "home-studio":[
+        {"interfaz":[
+            [
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Mackie-Onyx-Artist-1.2-USB-Interfaz-de-Audio.PNG",
+                    "title":"Mackie-Onyx Artist 1.2 USB Interfaz de Audio",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":360000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Komplete-Audio-1.PNG",
+                    "title":"Komplete-Audio 1",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":400500
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/PreSonus-Audiobox-96.PNG",
+                    "title":"PreSonus-Audiobox 96",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":459000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Presonus-Studio-24C.PNG",
+                    "title":"Presonus-Studio 24C",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":634500
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Focusrite-Scarlett-8i6-3-Generacion.PNG",
+                    "title":"Focusrite-Scarlett 8i6 (3ª Generación)",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":1323000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Apollo-Solo.PNG",
+                    "title":"Apollo-Solo",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":3200000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Black-Lion-Audio-Revolution-2x2-Audio-Interface.PNG",
+                    "title":"Black Lion-Audio Revolution 2×2 Audio Interface",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":2115000
+                },  
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Behringer-U-Phoria-UM2.PNG",
+                    "title":"Behringer-U-Phoria UM2",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":184000
+                },  
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Roland-Rubix22.PNG",
+                    "title":"Roland-Rubix22",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":688500
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/M-Audio-AIR-192-14.PNG",
+                    "title":"M-Audio-AIR 192 14",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":1345500
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Tascam-US-16x08.PNG",
+                    "title":"Tascam-US-16x08",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":1674000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/interfaz/Steinberg-UR22-MkII.PNG",
+                    "title":"Steinberg-UR22 MkII",
+                    "desciption":"lorem impsu",
+                    "marca":"interfaz",
+                    "price":590000
+                } 
+            ]
+        ]},
+        {"microfonos":[
+            [
+                {
+                    "img":"public/img/img_instrumentos/Microfonos/AKG-P120.PNG",
+                    "title":"AKG-P120",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":259900
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Audio-Technica-AT2020.PNG",
+                    "title":"Audio Technica-AT2020",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":630000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Behringer-C-1U.PNG",
+                    "title":"Behringer-C-1U",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":162000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Behringer-BX2020.PNG",
+                    "title":"Behringer-BX2020",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":312750
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/SubZero-SZM-11S.PNG",
+                    "title":"SubZero-SZM-11S",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":130000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Sennheiser-E904.PNG",
+                    "title":"Sennheiser-E904",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":715000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Tascam-TM-82.PNG",
+                    "title":"Tascam-TM-82",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":185625
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Behringer-BC1200.PNG",
+                    "title":"Behringer-BC1200",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":389565
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Shure-Super-55-Deluxe.PNG",
+                    "title":"Shure-Super 55 Deluxe",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":1161000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/beyerdynamic-TG-D35d-Dynamic.PNG",
+                    "title":"beyerdynamic-TG D35d Dynamic",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":1179000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Sontronics-DM-1B-Micrófono-de-Bombo.PNG",
+                    "title":"Sontronics-DM-1B Micrófono de Bombo",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":1723500
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Microfonos/Audio-Technica-AE2500-Dual-Element-Instrument-Mic.PNG",
+                    "title":"Audio-Technica-AE2500 Dual Element Instrument Mic",
+                    "desciption":"lorem impsu",
+                    "marca":"microfonos",
+                    "price":2745000
+                }
+            ]
+        ]},
+        {"monitores":[
+            [
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Presonus-Eris-E3.5-Par.PNG",
+                    "title":"Presonus-Eris E3.5, Par",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":420000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Mackie-CR3-X.PNG",
+                    "title":"Mackie-CR3-X",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":526500
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/SubZero-SZSM-4-X.PNG",
+                    "title":"SubZero-SZSM-4 X",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":526000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Yamaha-HS8W.PNG",
+                    "title":"Yamaha-HS8W",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":1200000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Yamaha-HS8-MP.PNG",
+                    "title":"Yamaha-HS8 MP",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":3000000
+                },  
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/ADAM-A77X-Active-Studio-Monitors.PNG",
+                    "title":"ADAM-A77X Active Studio Monitors",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":7312000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Hercules-DJMonitor-32-Party.PNG",
+                    "title":"Hercules-DJMonitor 32 Party",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":525000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/KRK-Rokit-R6-G3-Monitor.PNG",
+                    "title":"KRK-Rokit R6 G3 Monitor",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":625500
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Auratone-C50A-Active-30W-Full-Range.PNG",
+                    "title":"Auratone-C50A Active 30W Full-Range",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":630000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Fostex-PM-SUBmini-2-Active-Subwoofer.PNG",
+                    "title":"Fostex-PM-SUBmini 2 Active Subwoofer",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":814500
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/PreSonus-Eris-Sub-8.PNG",
+                    "title":"PreSonus-Eris Sub 8",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":900000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Monitores/Fostex-6301NE-Monitor.PNG",
+                    "title":"Fostex-6301NE Monitor",
+                    "desciption":"lorem impsu",
+                    "marca":"monitores",
+                    "price":1377000
+                }
+            ]
+        ]},
+        {"audifonos":[
+            [
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/ADAM-Audio-Studio-Pro-SP-5-Headphones.PNG",
+                    "title":"ADAM-Audio Studio Pro SP-5 Headphones",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":2160000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Shure-SE846.PNG",
+                    "title":"Shure-SE846",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":4225000
+                }, 
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Sennheiser-IE-400-Pro.PNG",
+                    "title":"Sennheiser-IE 400 Pro",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":1120000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Yamaha-HPH-MT5.PNG",
+                    "title":"Yamaha HPH-MT5",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":400500
+                },  
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Sennheiser-HD-25.PNG",
+                    "title":"Sennheiser-HD 25",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":580500
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Audio-Technica-ATH-M60x.PNG",
+                    "title":"Audio Technica-ATH-M60x",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":855000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Avantone-Pro-MP1-Mixphones-Headphones.PNG",
+                    "title":"Avantone-Pro MP1 Mixphones Headphones",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":1000000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Focal-Clear-MG-Professional-Studio-Headphones.PNG",
+                    "title":"Focal-Clear MG Professional Studio Headphones",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":6220000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/AKG-K812.PNG",
+                    "title":"AKG-K812",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":5674000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/beyerdynamic-DT-1990-Pro.PNG",
+                    "title":"beyerdynamic-DT 1990 Pro",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":2731000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/AKG-K712-PRO.PNG",
+                    "title":"AKG-K712 PRO",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":1090000
+                },
+                {
+                    "img":"public/img/img_instrumentos/Home Studio/Audifonos/Mackie-MC-450.PNG",
+                    "title":"Mackie-MC-450",
+                    "desciption":"lorem impsu",
+                    "marca":"audifonos",
+                    "price":1273500
+                }
+            ]
+        ]}
+    ]
+}
